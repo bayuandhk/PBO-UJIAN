@@ -1,0 +1,19 @@
+{
+    "name": "nakha/halaman",
+    "description": "tugas",
+    "type": "projek",
+    "autoload": {
+        "psr-4": {
+            "Nakha\\Halaman\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RazkyGantengPisan",
+            "email": "nakhanayla@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^3.8"
+    }
+}
